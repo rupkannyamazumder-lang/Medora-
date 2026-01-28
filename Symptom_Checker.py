@@ -1,5 +1,3 @@
-import streamlit as st
-
 st.title("🔍 Symptom & Risk Chart")
 symptoms = [
     "Irregular periods", "Acne", "Thinning hair", 
