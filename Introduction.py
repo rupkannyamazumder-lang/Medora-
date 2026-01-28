@@ -1,5 +1,3 @@
-import streamlit as st
-
 st.title("👤 Patient Introduction")
 with st.form("intro_form"):
     name = st.text_input("Full Name")
